@@ -6,7 +6,7 @@ What got me interested in programming was my love of video games. My current pro
 
 My initial game list is:
 - Tic-Tac-Toe
-- Minesweepr
+- Minesweeper
 
 More to come! Any suggestions are welcome.
 
